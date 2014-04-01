@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="glass_voice_trigger">beetlejuice beetlejuice beetlejuice</string>
+
+    <string-array name="quotes">
+        <item>I\'m a ghost with the most, babe.</item>
+        <item>Let\'s turn on the juice and see what shakes loose.</item>
+        <item>It\'s showtime.</item>
+        <item>Don\'t you hate it when that happens?</item>
+    </string-array>
+
+</resources>
